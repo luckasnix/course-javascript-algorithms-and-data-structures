@@ -1,0 +1,15 @@
+{
+  "name": "course-javascript-algorithms-and-data-structures",
+  "description": "Exercises from the course 'JavaScript Algorithms and Data Structures Masterclass' by Colt Steele",
+  "type": "module",
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "data structures"
+  ],
+  "author": "Kasnix",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}
