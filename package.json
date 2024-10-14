@@ -2,6 +2,9 @@
   "name": "course-javascript-algorithms-and-data-structures",
   "description": "Exercises from the course 'JavaScript Algorithms and Data Structures Masterclass' by Colt Steele",
   "type": "module",
+  "scripts": {
+    "big-o-notation": "node 1-big-o-notation"
+  },
   "keywords": [
     "javascript",
     "algorithms",
