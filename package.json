@@ -3,7 +3,8 @@
   "description": "Exercises from the course 'JavaScript Algorithms and Data Structures Masterclass' by Colt Steele",
   "type": "module",
   "scripts": {
-    "big-o-notation": "node 1-big-o-notation"
+    "big-o-notation": "node 1-big-o-notation",
+    "recursion": "node 2-recursion"
   },
   "keywords": [
     "javascript",
