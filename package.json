@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "big-o-notation": "node 1-big-o-notation",
-    "recursion": "node 2-recursion"
+    "recursion": "node 2-recursion",
+    "search": "node 3-search"
   },
   "keywords": [
     "javascript",
